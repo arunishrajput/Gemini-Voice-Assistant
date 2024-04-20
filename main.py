@@ -54,7 +54,7 @@ def get_response(user_input):
     print(gemini_reply)
     return gemini_reply
 
-exit_words = ["exit", "stop", "quit"]  # Add your exit words here
+exit_words = ["exit", "stop", "quit", "bye", "goodbye"]  # Add your exit words here
 wake_word = "gemini"  # Set your wake word here
 
 while listening:
