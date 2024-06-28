@@ -86,7 +86,3 @@ Gemini Voice Assistant is a voice-activated assistant powered by Google Gemini A
 - [Google Gemini AI](https://aistudio.google.com/app/apikey)
 - [SpeechRecognition](https://github.com/Uberi/speech_recognition)
 - [pyttsx3](https://github.com/nateshmbhat/pyttsx3)
-
----
-
-Feel free to adjust the content according to your specific requirements and preferences. If you have any additional sections or information you want to include, you can easily add them to this template
