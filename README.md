@@ -56,7 +56,7 @@ Gemini Voice Assistant is a voice-activated assistant powered by Google Gemini A
 
 4. **Set up your Google Gemini API key:**
 
-   Replace "Gemini_API_Key" in the script with your actual [Google Gemini API key](https://aistudio.google.com/app/apikey).
+   Replace `Gemini_API_Key` in the script with your actual [Google Gemini API key](https://aistudio.google.com/app/apikey).
 
 ## Usage
 
@@ -68,14 +68,14 @@ Gemini Voice Assistant is a voice-activated assistant powered by Google Gemini A
 
 2. **Interact with the assistant:**
 
-   - Say the wake word (default is "gemini") to start sending responses to Gemini.
-   - Use exit words (default: "exit", "stop", "quit", "bye", "goodbye") to stop sending responses to Gemini.
+   - Say the `wake word` (default is "gemini") to start sending responses to Gemini.
+   - Use `exit words` (default: "exit", "stop", "quit", "bye", "goodbye") to stop sending responses to Gemini.
 
 ## Configuration
 
-- **Wake Word:** Set your desired wake word in the wake_word variable.
-- **Exit Words:** Customize the exit words in the exit_words list.
-- **Voice Settings:** Adjust the rate, volume, and voice properties in the pyttsx3 output voice customization section.
+- **Wake Word:** Set your desired wake word in the `wake_word` variable.
+- **Exit Words:** Customize the exit words in the `exit_words` list.
+- **Voice Settings:** Adjust the `rate`, `volume`, and `voice properties` in the pyttsx3 output voice customization section.
 
 ## Contribution
 
